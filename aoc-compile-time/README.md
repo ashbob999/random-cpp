@@ -8,4 +8,4 @@ Should work on both Windows (msvc) and Linux (GCC >= 12)
 
 This does take much longer to compile the program and shouldn't be used.
 
-[https://godbolt.org/z/69TW7sYh1]
+https://godbolt.org/z/69TW7sYh1
